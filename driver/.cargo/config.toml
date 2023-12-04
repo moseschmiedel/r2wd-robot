@@ -1,0 +1,8 @@
+[build]
+target = "avr-specs/avr-atmega328p.json"
+
+[target.'cfg(target_arch = "avr")']
+runner = "sudo --preserve-env=RAVEDUDE_PORT /home/mose/.cargo/bin/ravedude uno -cb 57600"
+
+[unstable]
+build-std = ["core"]
