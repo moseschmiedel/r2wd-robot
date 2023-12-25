@@ -3,4 +3,5 @@ members = [
     "driver",
     "algorithms",
     "simulation",
+    "rplidar_protocol",
 ]
