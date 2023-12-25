@@ -1,5 +1,5 @@
 [package]
-name = "r2wd-robot-algorithms"
+name = "r2wd-robot--algorithms"
 version = "0.0.0"
 edition = "2021"
 

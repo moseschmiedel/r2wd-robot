@@ -1,12 +1,12 @@
 [package]
-name = "r2wd-robot -- driver"
+name = "r2wd-robot-driver"
 version = "0.1.0"
 authors = ["Mose Schmiedel <mose@schmiednet.de>"]
 edition = "2021"
 license = "MIT OR Apache-2.0"
 
 [[bin]]
-name = "r2wd-rust-robot-driver"
+name = "r2wd-robot-driver"
 test = false
 bench = false
 

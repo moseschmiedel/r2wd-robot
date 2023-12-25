@@ -1,5 +1,5 @@
 [package]
-name = "r2wd-robot-simulation"
+name = "r2wd-robot--simulation"
 version = "0.0.0"
 edition = "2021"
 
